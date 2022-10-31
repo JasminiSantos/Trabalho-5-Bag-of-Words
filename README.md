@@ -1,4 +1,5 @@
 # Trabalho 5 - Bag of Words
+<p>Jasmini Rebecca Gomes dos Santos</p>
 <p> Sua tarefa será gerar a matriz termo documento, dos documentos recuperados da internet e
 imprimir esta matriz na tela. Para tanto: </p>
 <p>a) Considere que todas as listas de sentenças devem ser transformadas em listas de vetores,
